@@ -1,0 +1,96 @@
+[
+	{
+		"id": 1,
+		"name": "A Clockwork Magenta Registration",
+		"roles": [
+			"Full Stack Developer",
+			"UI/UX Design"
+		],
+		"description": "MVP to handle the visitors of a fair and managing the fair-exhibit, used by T-Systems.",
+		"technologyUsed": [
+			"VueJS",
+			"Vuex",
+			"Babel",
+			"Webpack",
+			"NodeJS",
+			"Express",
+			"Sequelize",
+			"MySQL",
+			"PWA"
+		],
+		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562783190/portfolio/spiro_background_cdyigh.png",
+		"date": "April 2019 - June 2019",
+		"links": [
+			{
+				"name": "Demo",
+				"url": "https://magenta-clockwork-demo.herokuapp.com/overview"
+			},
+			{
+				"name": "Github",
+				"url": "https://github.com/plc-dev/magenta-clockwork-registration"
+			}
+		],
+		"status": "Done"
+	},
+	{
+		"id": 2,
+		"name": "How to read notes!",
+		"roles": [
+			"Owner",
+			"Full Stack Developer"
+		],
+		"description": "A small PWA example.",
+		"technologyUsed": [
+			"Javascript",
+			"PWA",
+			"Firebase",
+			"MongoDB",
+			"HTML5",
+			"CSS3"
+		],
+		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562783022/portfolio/bart_cw6e97.jpg",
+		"date": "April 2019",
+		"links": [
+			{
+				"name": "Demo",
+				"url": "https://noten-lernen.firebaseapp.com/"
+			},
+			{
+				"name": "Github",
+				"url": "https://github.com/plc-dev/PWA"
+			}
+		],
+		"status": "Done"
+	},
+	{
+		"id": 3,
+		"name": "Track Everything!",
+		"roles": [
+			"Owner",
+			"Full Stack Developer"
+		],
+		"description": "Expenses, Food, Training... You gotta track em ALL!!",
+		"technologyUsed": [
+			"VueJS",
+			"Node",
+			"Express",
+			"MongoDB",
+			"GraphQL",
+			"PWA",
+			"IndexedDB"
+		],
+		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562785856/portfolio/datatracking_vuokye.jpg",
+		"date": "June 2019 - Present",
+		"links": [
+			{
+				"name": "Demo",
+				"url": ""
+			},
+			{
+				"name": "Github",
+				"url": ""
+			}
+		],
+		"status": "In Progress"
+	}
+]
